@@ -15,7 +15,10 @@ int main() {
 			printf("B.tech ECE");
 			break;
 		case 4:
-			printf("B.tech MEC")
+			printf("B.tech MEC");
 			break;
+		default:
+			printf("invalid choice");
 	}
+	return 0;
 }
