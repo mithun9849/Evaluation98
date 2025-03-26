@@ -6,7 +6,10 @@ int main() {
 
 	switch (a) {
 		case 1:
-			printf(B.tech CSE);
+			printf("B.tech CSE");
+			break;
+		case 2:
+			printf("B.tech AIML");
 			break;
 	}
 }
